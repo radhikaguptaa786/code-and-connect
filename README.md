@@ -1,4 +1,4 @@
-# Code-Share App - A Realtime Code Editor & white Board App
+# Code-and-Connect App - A Realtime Code Editor & white Board App
 
 ![Preview Image](./preview.png)
 
