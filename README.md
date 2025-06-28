@@ -158,12 +158,8 @@ README.md
 
 ## ⚙️ Installation
 
-1. **Fork this repository:** Click the Fork button located in the top-right corner of this page to fork the repository.
-2. **Clone the repository:**
-    ```bash
-    git clone https://github.com/<your-username>/Code-Sync.git
-    ```
-3. **Set .env file:**
+
+1. **Set .env file:**
    Inside the client and server directory, create or edit the .env file and add the following line:  
    Frontend:
 
@@ -177,12 +173,12 @@ README.md
     PORT=3000
     ```
 
-4. **Install dependencies:**
+2. **Install dependencies:**
    Navigate to the frontend and backend directories separately and run:
     ```bash
      npm install
     ```
-5. **Start the frontend and backend servers:**  
+3. **Start the frontend and backend servers:**  
    Frontend:
     ```bash
     cd client
@@ -193,7 +189,7 @@ README.md
     cd server
     npm run dev
     ```
-6. **Access the application:**
+4. **Access the application:**
    Open a browser and enter the following URL:
     ```bash
     http://localhost:5173/
@@ -216,4 +212,4 @@ Also, huge gratitude to Tldraw contributors for their amazing library. For more 
 
 -   [Tldraw Repository](https://github.com/tldraw/tldraw)
 -   [Tldraw Documentation](https://tldraw.dev/)
-# code-and-share
+# code-and-connect
