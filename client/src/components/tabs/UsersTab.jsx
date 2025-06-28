@@ -69,7 +69,14 @@ function UsersTab() {
                     </button>
                     {/* Leave room button */}
                     <button
-                        className="flex flex-grow items-center justify-center rounded-md bg-primary p-3 text-black"
+                        className="flex flex-grow items-center justify-center rounded-md bg-gradient-to-r from-blue-700 to-cyan-400 hover:from-blue-600 hover:to-cyan-500 
+
+
+
+
+
+
+ p-3 text-black"
                         onClick={leaveRoom}
                         title="Leave room"
                     >

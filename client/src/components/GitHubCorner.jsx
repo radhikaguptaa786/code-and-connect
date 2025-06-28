@@ -7,7 +7,7 @@ function GitHubCorner() {
 
     return (
         <a
-            href="https://github.com/sahilatahar/Code-Sync"
+            href="https://github.com/radhikaguptaa786/code-and-connect"
             className="github-corner"
             aria-label="View source on GitHub"
             target="_blank"
@@ -20,7 +20,14 @@ function GitHubCorner() {
                 width="150"
                 height="100"
                 viewBox="0 0 250 250"
-                className="absolute right-0 top-0 z-10 border-none bg-primary text-gray-900 dark:text-gray-100"
+                className="absolute right-0 top-0 z-10 border-none bg-gradient-to-r from-blue-700 to-cyan-400 hover:from-blue-600 hover:to-cyan-500 
+
+
+
+
+
+
+ text-gray-900 dark:text-gray-100"
                 aria-hidden="true"
                 style={{
                     color: "#151513",

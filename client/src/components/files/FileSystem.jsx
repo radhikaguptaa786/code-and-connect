@@ -111,7 +111,14 @@ function FileSystem() {
                 })}
             </div>
             <button
-                className="my-2 flex w-full justify-center rounded-md bg-primary p-2 font-bold text-black transition-all"
+                className="my-2 flex w-full justify-center rounded-md bg-gradient-to-r from-blue-700 to-cyan-400 hover:from-blue-600 hover:to-cyan-500 
+
+
+
+
+
+
+ p-2 font-bold text-black transition-all"
                 onClick={handleCreateNewFile}
             >
                 New File

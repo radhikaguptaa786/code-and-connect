@@ -32,7 +32,7 @@ const User = ({ user }) => {
             </p>
             <div
                 className={`absolute right-5 top-0 h-3 w-3 rounded-full ${
-                    status === ACTIONS.USER_ONLINE ? "bg-green-500" : "bg-danger"
+                    status === ACTIONS.USER_ONLINE ? "bg-cyan-500" : "bg-danger"
                 }`}
             ></div>
         </div>

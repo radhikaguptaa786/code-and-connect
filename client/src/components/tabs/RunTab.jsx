@@ -67,7 +67,14 @@ function RunTab() {
                     onChange={(e) => setInput(e.target.value)}
                 />
                 <button
-                    className="flex w-full justify-center rounded-md bg-primary p-2 font-bold text-black outline-none disabled:cursor-not-allowed disabled:opacity-50"
+                    className="flex w-full justify-center rounded-md bg-gradient-to-r from-blue-700 to-cyan-400 hover:from-blue-600 hover:to-cyan-500 
+
+
+
+
+
+
+ p-2 font-bold text-black outline-none disabled:cursor-not-allowed disabled:opacity-50"
                     onClick={runCode}
                     disabled={isRunning}
                 >

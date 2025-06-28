@@ -87,7 +87,7 @@ function FormComponent() {
 
     return (
         <div className="flex w-full max-w-[500px] flex-col items-center justify-center gap-4 p-4 sm:w-[500px] sm:p-8">
-            <h1 className="text-4xl sm:text-5xl">Code and Share</h1>
+            <h1 className="text-4xl sm:text-5xl">code and connect</h1>
             <p className="mb-4 text-center md:mb-8">
                 {"Code, Chat, Collaborate. It's All in Sync."}
             </p>
@@ -111,7 +111,14 @@ function FormComponent() {
                 />
                 <button
                     type="submit"
-                    className="mt-2 w-full rounded-md bg-primary px-8 py-3 text-lg font-semibold text-black"
+                    className="mt-2 w-full rounded-md bg-gradient-to-r from-blue-700 to-cyan-400 hover:from-blue-600 hover:to-cyan-500 
+
+
+
+
+
+
+ px-8 py-3 text-lg font-semibold text-black"
                 >
                     Join
                 </button>
